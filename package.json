@@ -54,6 +54,7 @@
     "gulp-util": "^3.0.6",
     "jest": "^0.1.40",
     "jest-cli": "^0.10.0",
+    "prop-types": "^15.7.2",
     "react-addons-test-utils": "^0.14.8",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0",
@@ -62,8 +63,7 @@
   "dependencies": {
     "babel-runtime": "^5.1.10",
     "classnames": "^2.0.0",
-    "react-bootstrap": ">=0.23.0",
-    "validator": "^3.41.3",
-    "react-addons-create-fragment": "^0.14.7"
+    "react-bootstrap": "0.29.5",
+    "validator": "^3.41.3"
   }
 }
